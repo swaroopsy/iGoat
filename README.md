@@ -1,5 +1,6 @@
 # iGoat
 
+<form>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
 <div class="paypal_donation_button">
 <input type="hidden" name="cmd" value="_donations">
